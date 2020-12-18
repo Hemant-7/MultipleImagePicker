@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_MultipleImagePicker_MultipleImagePickerUITests : NSObject
+@end
+@implementation PodsDummy_Pods_MultipleImagePicker_MultipleImagePickerUITests
+@end
